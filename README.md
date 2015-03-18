@@ -32,6 +32,7 @@ Name  | Technologies | Date
 [Android and AMS ](https://azureinfo.microsoft.com/CE-Azure-WBNR-FY15-03Mar-AndroidAzureMobileServices_24Mar.html)| Android application development with Azure Mobile Services  | 24.03.2015 18:00-19:00 CET
 [Move into Azure ](https://azureinfo.microsoft.com/CE-Azure-WBNR-FY15-03Mar-TechnicalWebinars-MigratingsolutiontoAzure.html)| Migrating solution to Azure – How to start and move into right direction?  | 26.03.2015 4:00-5:00 PM CET
 [Node.JS in Azure ](https://azureinfo.microsoft.com/CE-Azure-WBNR-FY15-03Mar-Deployment-Node.JS-application-Azure-30Mar.html)| Deployment Node.JS application to an Azure | 30.03.2015 18:00-19:00 CET
+[Node.JS optimization in Azure ](https://azureinfo.microsoft.com/CE-Azure-WBNR-FY15-04Apr-Practical-recommendations-for-the-construction-of-an-elastic-Node.JS-application-Azure-cloud-and-optimize-its-performance-6Apr.html)| Practical recommendations for the construction of an elastic Node.JS application | 06.04.2015 18:00-19:00 CET
 
 
 ----------  
