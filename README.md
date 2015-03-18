@@ -34,4 +34,5 @@ Name  | Technologies | Date
 [Node.JS in Azure ](https://azureinfo.microsoft.com/CE-Azure-WBNR-FY15-03Mar-Deployment-Node.JS-application-Azure-30Mar.html)| Deployment Node.JS application to an Azure | 30.03.2015 18:00-19:00 CET
 [Node.JS optimization in Azure ](https://azureinfo.microsoft.com/CE-Azure-WBNR-FY15-04Apr-Practical-recommendations-for-the-construction-of-an-elastic-Node.JS-application-Azure-cloud-and-optimize-its-performance-6Apr.html)| Practical recommendations for the construction of an elastic Node.JS application | 06.04.2015 18:00-19:00 CET
 
+
 ----------  
