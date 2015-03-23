@@ -10,6 +10,7 @@ Name  | Technologies | Location  | Date
 [Go#](http://www.gosharp.ru/)| Web API, WCF, REST  | Moscow | 28.02.2015
 [Alm Summit](http://events.techdays.ru/ALM-Summit/2015-03/)| Development process, infrastructure | Moscow (online) | 20.03.2015
 [CLRium Msk](http://braingems.timepad.ru/event/172055/) | CLR, mono, Roslyn, JetBrains Nitra, Nemerle  | Moscow | 03.04.2015
+[Microsoft Developer Tour](http://events.techdays.ru/msdevtour/) | IoT,Unity, .NET, Web Development, ...  | - | -
 dotnetconf | Agile, TDD, BDD, CI, Refactoring, DDD  | Chelyabinsk | 19.04.2015
 [DevCon](http://www.msdevcon.ru/)  | Azure, Asp .Net, Windows and game development  | Moscow | 20.05.2015
 [CLRium Ekb](https://braingems.timepad.ru/event/185420/)  | CLR, mono, Roslyn, JetBrains Nitra, Nemerle  | Yekaterinburg | 17.05.2015
